@@ -3,7 +3,7 @@
 <text class="t" x="8" y="20">Forge activity · last 12 weeks · 15 repos</text>
 <text x="8" y="36">yesterday: 14 commits · 15 issues · 1 crash test</text>
 <text x="8" y="68">commits</text>
-<text x="8" y="80">total 1142 · peak 70</text>
+<text x="8" y="80">total 1143 · peak 70</text>
 <line class="base" x1="150" y1="80" x2="822" y2="80"/>
 <rect x="150" y="76" width="6" height="4" rx="1" fill="#2F6FDB"><title>2026-07-16: 8</title></rect>
 <rect x="158" y="75" width="6" height="5" rx="1" fill="#2F6FDB"><title>2026-07-17: 11</title></rect>
@@ -78,7 +78,7 @@
 <rect x="782" y="72" width="6" height="8" rx="1" fill="#2F6FDB"><title>2026-10-03: 17</title></rect>
 <rect x="790" y="75" width="6" height="5" rx="1" fill="#2F6FDB"><title>2026-10-04: 11</title></rect>
 <rect x="798" y="74" width="6" height="6" rx="1" fill="#2F6FDB"><title>2026-10-05: 12</title></rect>
-<rect x="806" y="69" width="6" height="11" rx="1" fill="#2F6FDB"><title>2026-10-06: 23</title></rect>
+<rect x="806" y="68" width="6" height="12" rx="1" fill="#2F6FDB"><title>2026-10-06: 24</title></rect>
 <rect x="814" y="73" width="6" height="7" rx="1" fill="#2F6FDB"><title>2026-10-07: 14</title></rect>
 <text x="8" y="116">issues opened + closed</text>
 <text x="8" y="128">total 820 · peak 55</text>
