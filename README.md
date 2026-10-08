@@ -1,4 +1,4 @@
-### Jean-Noël Schilling
+### Johnny Xmas
 
 **I build personal digital environments people can trust, at home and at work, with as little dependence as possible.**
 
@@ -7,6 +7,10 @@ Polymer engineer by training, self-taught developer. My work starts from three q
 #### Where my code lives
 
 My code lives on my own forge, [forge.lockilabs.com](https://forge.lockilabs.com), self-hosted. GitHub carries the mirrors: a project comes here when it is ready to be shown.
+
+![Forge activity, last 12 weeks: commits, issues, crash tests](activity.svg)
+
+*Updated daily from the forge. Counts only: no titles, no private repo names.*
 
 #### What I do
 
