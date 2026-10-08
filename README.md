@@ -22,6 +22,7 @@ A semantic layer for several people, each owning their own knowledge: one shared
 
 - [ocapistaine](https://github.com/locki-io/ocapistaine): civic AI agents grounded in a town's public archives
 - [hero-skulth](https://github.com/locki-io/hero-skulth): can we trust smart contracts in the era of AI agents?
+- [locki-io.github.io](https://github.com/locki-io/locki-io.github.io): not a video game, but UX pushed to its limit
 
 #### About this account
 
